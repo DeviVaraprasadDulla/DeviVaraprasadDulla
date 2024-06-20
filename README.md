@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @DeviVaraprasadDulla
+- 👀 I’m interested in Web Devlopment
+- 🌱 I’m currently learning Javascript,Reactjs and Tailwind css.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me devivaraprasaddulla@gmail.com.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: ...
+
+<!---
+DeviVaraprasadDulla/DeviVaraprasadDulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
