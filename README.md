@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeviVaraprasadDulla
-- 👀 I’m interested in Web Devlopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript,Reactjs and Tailwind css.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me devivaraprasaddulla@gmail.com.
